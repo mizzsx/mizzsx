@@ -4,8 +4,7 @@ I'm a cybersecurity student with an interest in
 understanding how systems work, how they break,
 and how they can be secured.
 
-I document my learning through hands-on projects,
-security labs, and CTF challenges.
+I document my learning through hands-on projects and security labs.
 
 ## Areas of Interest
 
