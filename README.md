@@ -1,4 +1,4 @@
-## Hello There🔦.
+## Hello There 👋.
 
 I'm a cybersecurity student with an interest in
 understanding how systems work, how they break,
