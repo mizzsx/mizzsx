@@ -32,18 +32,7 @@ I document my learning through hands-on projects and security labs.
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-## Projects
 
-### [HTTP & HTTPS Security Analysis](https://github.com/mizzsx/HTTP-HTTPS-Security-Analysis)
-
-A hands-on experiment comparing HTTP and HTTPS
-through TLS encryption, certificate verification,
-and Wireshark packet analysis.
-
-### [CTF Writeups](https://github.com/mizzsx/CTF-Writeups)
-
-A collection of CTF writeups documenting my
-approach to solving cybersecurity challenges.
 
 ---
 
